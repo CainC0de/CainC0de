@@ -1,28 +1,4 @@
 <h2 align="left">Backend developeer </h2>
   <h2>  Cyber Securuty student </h2>
     <h2>  Robotic student</h2>
-                           ,--.             
-                          {    }            
-                          K,   }            
-                         /  `Y`             
-                    _   /   /               
-                   {_'-K.__/                
-                     `/-.__L._              
-                     /  ' /`\_}             
-                    /  ' /                  
-            ____   /  ' /                   
-     ,-'~~~~    ~~/  ' /_                   
-   ,'             ``~~~%%',                 
-  (                     %  Y                
- {                      %% I                
-{      -                 %  `.              
-|       ',                %  )              
-|        |   ,..__      __. Y               
-|    .,_./  Y ' / ^Y   J   )|               
-\           |' /   |   |   ||               
- \          L_/    . _ (_,.'(               
-  \,   ,      ^^""' / |      )              
-    \_  \          /,L]     /               
-      '-_`-,       ` `   ./`                
-         `-(_            )                  
-             ^^\..___,.--`                  
+<gif> https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif</gif>
