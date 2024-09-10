@@ -1,2 +1,5 @@
-<h2 align="left">I'm just a Developer in development...</h2>
+<h2 align="left">Backend developeer
+Cyber Securuty student
+Robotic student
+</h2>
 
