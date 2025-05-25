@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Cain  
-### *A just developer in development.*  
+# I'm Cain  
+### *A developer and cyber security student in development.*  
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=cainc0de)](https://github.com/ryo-ma/github-profile-trophy)  
 
