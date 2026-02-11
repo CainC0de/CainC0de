@@ -15,9 +15,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cainc0de&layout=compact)
-![Cain's GitHub stats](https://github-readme-stats.vercel.app/api?username=cainc0de&show_icons=true)
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CainC0de/CainC0de/output/github-contribution-grid-snake-dark.svg">
