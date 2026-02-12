@@ -1,5 +1,5 @@
-# I'm Cain  
-### *A developer and cyber security student in development.*  
+# I'm Guilherme  
+### *A software developer and student, passionate about software, hardware, embedded systems, and cybersecurity. Constantly developing..*  
 
 ### SKills:  
 <p align="left">  
