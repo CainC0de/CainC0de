@@ -1,5 +1,5 @@
 # I'm Guilherme  
-### *A software developer and student, passionate about software, hardware, embedded systems, and cybersecurity. Constantly developing..*  
+### *A software developer and student interested about embedded systems, geoprocessing, and development Web. Constantly learning and building.*  
 
 ### SKills:  
 <p align="left">  
