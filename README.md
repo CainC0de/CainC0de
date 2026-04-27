@@ -36,11 +36,11 @@
 </p>
 
 <a href="https://github.com/seu-usuario" title="Perfil do Guilherme">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CainC0de&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/seu-usuario?label=follow&style=social)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/github/followers/seu-usuario?label=follow&style=social)](https://github.com/CainC0de)
