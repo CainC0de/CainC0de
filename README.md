@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=seu-usuario&color=006bed)
 
-# Olá, eu sou o Wilhelm
+# Olá, eu sou o Guilherme
 
 ## Sobre mim
 
