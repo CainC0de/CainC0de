@@ -5,7 +5,7 @@
 ## Sobre mim
 
 - 🤔 Interessado em sistemas embarcados, geoprocessamento e desenvolvimento Web.
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS).
+- 🎓 Cursando Engenharia da Computação (EC).
 - 💼 Trabalhando como Desenvolvedor de Software (focado em AgTech).
 - 🌱 Aprendendo mais sobre Rust e novas tecnologias para soluções de software.
 
