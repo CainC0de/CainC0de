@@ -35,7 +35,7 @@ Interesses   :  Sistemas Embarcados · Geoprocessamento · Web · Dados
 **Linguagens**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,java,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,java,kotlin,php,cs,bash&theme=dark" />
 </p>
 
 ---
