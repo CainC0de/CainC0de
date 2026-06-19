@@ -87,10 +87,7 @@ Interesses   :  Sistemas Embarcados · Geoprocessamento · Web · Dados
 **Python — Data & Ciencia**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" />
-</p>
-
-<p>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white&labelColor=111111" />
