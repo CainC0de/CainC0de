@@ -17,10 +17,9 @@
 ### Sobre mim
 
 ```
-Engenharia da Computacao        IF Goiano (em andamento)
-Tecnico em Informatica          IFG  — Instituto Federal de Goias
-Desenvolvimento Backend         SENAI — SENAI Goias
-Seguranca de Redes e Sistemas   IFG  — Instituto Federal de Goias
+Engenharia da Computacao   IF Goiano  (em andamento)
+Tecnico em Informatica     IFG  — Instituto Federal de Goias
+Desenvolvimento Backend    SENAI — SENAI Goias
 
 Cargo atual  :  Desenvolvedor Full Stack Junior
 Area         :  Setor Agricola
@@ -31,66 +30,76 @@ Interesses   :  Sistemas Embarcados · Geoprocessamento · Web · Dados
 
 ### Tech Stack
 
+<br/>
+
 **Linguagens**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,java,bash&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,java,bash&theme=dark" />
 </p>
+
+---
 
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma&theme=dark" />
 </p>
+
+---
 
 **Backend & APIs**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django&theme=dark" />
 </p>
+
+---
 
 **Bancos de Dados**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,supabase&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,supabase&theme=dark" />
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white&labelColor=111111" />
 </p>
 
+---
+
 **DevOps & Ferramentas**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,gitlab,github,docker,linux,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab,github,docker,linux,vscode&theme=dark" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white&labelColor=111111" />
 </p>
 
-**Testes**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytest&theme=dark&perline=8" />
-</p>
+---
 
 **Python — Data & Ciencia**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white&labelColor=111111" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=111111" />
 </p>
+
+---
 
 **Python — Web**
 
@@ -98,20 +107,31 @@ Interesses   :  Sistemas Embarcados · Geoprocessamento · Web · Dados
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white&labelColor=111111" />
-  <img src="https://img.shields.io/badge/httpx-111111?style=for-the-badge&logo=python&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/httpx-222222?style=for-the-badge&logo=python&logoColor=white&labelColor=111111" />
+</p>
+
+---
+
+**Geoprocessamento & CAD**
+
+<p>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/GRASS%20GIS-88B04B?style=for-the-badge&logo=qgis&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/SAGA%20GIS-4A90D9?style=for-the-badge&logo=qgis&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Civil%203D-0696D7?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=111111" />
 </p>
 
 **Python — Geo & Dados Geoespaciais**
 
 <p>
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white&labelColor=111111" />
-  <img src="https://img.shields.io/badge/Shapely-222222?style=for-the-badge&logo=python&logoColor=white&labelColor=111111" />
-  <img src="https://img.shields.io/badge/Rasterio-2D6A4F?style=for-the-badge&logo=python&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Shapely-2D6A4F?style=for-the-badge&logo=python&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Rasterio-3D6B4F?style=for-the-badge&logo=python&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/Fiona-5A8F7B?style=for-the-badge&logo=python&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/Pyproj-306998?style=for-the-badge&logo=python&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/GDAL-5C8C2F?style=for-the-badge&logo=qgis&logoColor=white&labelColor=111111" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white&labelColor=111111" />
 </p>
 
 ---
