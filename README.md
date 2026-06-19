@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=640&lines=Engenharia+da+Computacao+%40+IF+Goiano;Tecnico+em+Informatica+%E2%80%94+IFG;Desenvolvimento+Backend+%E2%80%94+SENAI+Goias;Seguranca+de+Redes+e+Sistemas+%E2%80%94+IFG;Full+Stack+Jr.+no+Setor+Agricola)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=640&lines=Engenharia+da+Computacao+%40+IF+Goiano+(em+andamento);Tecnico+em+Informatica+%E2%80%94+IFG;Desenvolvimento+Backend+%E2%80%94+SENAI+Goias;Full+Stack+Jr.+no+Setor+Agricola)](https://git.io/typing-svg)
 
 <br/>
 
