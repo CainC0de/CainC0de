@@ -1,136 +1,130 @@
 <div align="center">
 
-# Guilherme
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=140&section=header&text=CainC0de&fontSize=42&fontColor=F0F6FC&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20Goias%2C%20Brasil&descAlignY=68&descSize=15&descColor=8B949E" />
 
-**Full Stack Developer · Goiás, Brasil**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=400\&size=17\&duration=2500\&pause=900\&color=8B949E\&center=true\&vCenter=true\&width=550\&lines=Full+Stack+Development;Python+%C2%B7+TypeScript+%C2%B7+Rust;APIs+%C2%B7+Data+%C2%B7+Geoprocessing)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=CainC0de&style=flat-square&color=555555&label=visualizações" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=CainC0de&style=flat-square&color=30363d&label=profile+views&labelColor=161b22" />
 
 </div>
 
 <br>
 
-## Sobre
+## Sobre mim
 
-Desenvolvedor Full Stack com formação técnica em Informática e Backend, atualmente cursando Engenharia da Computação.
-
-Tenho experiência com desenvolvimento web, APIs, bancos de dados, análise de dados e soluções geoespaciais.
+```ts
+const guilherme = {
+  location: "Goiás, Brasil",
+  education: "Engenharia da Computação",
+  background: [
+    "Técnico em Informática",
+    "Desenvolvimento Backend"
+  ]
+};
+```
 
 <br>
 
-## Tecnologias
+# Tech Skills
+
+<div align="center">
 
 ### Linguagens
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,java,kotlin,php,cs,bash&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,rust,java,kotlin,php,cs,bash&theme=dark" />
+
+<br><br>
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
 
-### Backend
+<br><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django&theme=dark" />
-</p>
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django&theme=dark" />
+
+<br><br>
 
 ### Bancos de Dados
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" />
 
-<p>
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-</p>
+<br><br>
 
-### Ferramentas
+![PostGIS](https://img.shields.io/badge/PostGIS-181717?style=flat-square\&logo=postgresql\&logoColor=336791)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-181717?style=flat-square\&logo=influxdb\&logoColor=22ADF6)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-181717?style=flat-square\&logo=amazons3\&logoColor=569A31)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,gitlab,github,docker,linux,vscode&theme=dark" />
-</p>
+<br><br>
 
-<p>
-  <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-</p>
+### Python · Dados & Ciência
 
-<br>
+![Pandas](https://img.shields.io/badge/Pandas-181717?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-181717?style=flat-square\&logo=numpy\&logoColor=4DABCF)
+![SciPy](https://img.shields.io/badge/SciPy-181717?style=flat-square\&logo=scipy\&logoColor=8CAAE6)
+![SymPy](https://img.shields.io/badge/SymPy-181717?style=flat-square\&logo=sympy\&logoColor=3B5526)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-181717?style=flat-square\&logo=python\&logoColor=65BAEA)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-181717?style=flat-square\&logo=scikitlearn\&logoColor=F7931E)
+![Anaconda](https://img.shields.io/badge/Anaconda-181717?style=flat-square\&logo=anaconda\&logoColor=44A833)
 
-## Python
+<br><br>
 
-### Dados & Ciência
+### Python · Web & APIs
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-</p>
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-181717?style=flat-square\&logo=sqlalchemy\&logoColor=D71F00)
+![Pydantic](https://img.shields.io/badge/Pydantic-181717?style=flat-square\&logo=pydantic\&logoColor=E92063)
+![Celery](https://img.shields.io/badge/Celery-181717?style=flat-square\&logo=celery\&logoColor=37814A)
+![HTTPX](https://img.shields.io/badge/HTTPX-181717?style=flat-square\&logo=python\&logoColor=white)
 
-### Web & APIs
+<br><br>
 
-<p>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/httpx-222222?style=flat-square&logo=python&logoColor=white" />
-</p>
+### Geoprocessamento & GIS
 
-<br>
+![QGIS](https://img.shields.io/badge/QGIS-181717?style=flat-square\&logo=qgis\&logoColor=589632)
+![GRASS GIS](https://img.shields.io/badge/GRASS_GIS-181717?style=flat-square\&logo=qgis\&logoColor=88B04B)
+![SAGA GIS](https://img.shields.io/badge/SAGA_GIS-181717?style=flat-square\&logo=qgis\&logoColor=4A90D9)
+![PostGIS](https://img.shields.io/badge/PostGIS-181717?style=flat-square\&logo=postgresql\&logoColor=336791)
 
-## Geoprocessamento
+<br><br>
 
-<p>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/GRASS_GIS-88B04B?style=flat-square&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAGA_GIS-4A90D9?style=flat-square&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoCAD-E51937?style=flat-square&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Civil_3D-0696D7?style=flat-square&logo=autodesk&logoColor=white" />
-</p>
+### Python · Geoespacial
 
-### Python Geoespacial
+![GeoPandas](https://img.shields.io/badge/GeoPandas-181717?style=flat-square\&logo=geopandas\&logoColor=139C5A)
+![Shapely](https://img.shields.io/badge/Shapely-181717?style=flat-square\&logo=python\&logoColor=2D6A4F)
+![Rasterio](https://img.shields.io/badge/Rasterio-181717?style=flat-square\&logo=python\&logoColor=3D6B4F)
+![Fiona](https://img.shields.io/badge/Fiona-181717?style=flat-square\&logo=python\&logoColor=5A8F7B)
+![PyProj](https://img.shields.io/badge/PyProj-181717?style=flat-square\&logo=python\&logoColor=3776AB)
+![Folium](https://img.shields.io/badge/Folium-181717?style=flat-square\&logo=leaflet\&logoColor=199900)
+![GDAL](https://img.shields.io/badge/GDAL-181717?style=flat-square\&logo=qgis\&logoColor=5C8C2F)
 
-<p>
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shapely-2D6A4F?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rasterio-3D6B4F?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fiona-5A8F7B?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pyproj-306998?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDAL-5C8C2F?style=flat-square&logo=qgis&logoColor=white" />
-</p>
+<br><br>
 
-<br>
+### CAD
 
-## GitHub
+![AutoCAD](https://img.shields.io/badge/AutoCAD-181717?style=flat-square\&logo=autodesk\&logoColor=E51937)
+![Civil 3D](https://img.shields.io/badge/Civil_3D-181717?style=flat-square\&logo=autodesk\&logoColor=0696D7)
 
-<div align="center">
+<br><br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CainC0de&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa&include_all_commits=true&count_private=true" />
+### DevOps & Ferramentas
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CainC0de&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode&theme=dark" />
+
+<br><br>
+
+![GitKraken](https://img.shields.io/badge/GitKraken-181717?style=flat-square\&logo=gitkraken\&logoColor=179287)
+![Postman](https://img.shields.io/badge/Postman-181717?style=flat-square\&logo=postman\&logoColor=FF6C37)
+![pytest](https://img.shields.io/badge/pytest-181717?style=flat-square\&logo=pytest\&logoColor=0A9EDC)
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=CainC0de&theme=github-dark-blue&hide_border=true&background=00000000&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideNums=ffffff&dates=777777" />
-
-</div>
-
-<br>
+---
 
 ## Contribuições
 
@@ -156,14 +150,22 @@ Tenho experiência com desenvolvimento web, APIs, bancos de dados, análise de d
 
 <br>
 
+---
+
 ## Contato
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-CainC0de-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CainC0de)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-CainC0de-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CainC0de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU-EMAIL@email.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=40&section=footer" />
 
 </div>
