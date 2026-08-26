@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:1a1a1a,50:0D1117,100:1a1a1a\&height=250\&section=header\&text=CainC0de\&fontSize=80\&fontColor=fff\&animation=fadeIn\&fontAlignY=38\&desc=Full%20Stack%20Developer\&descAlignY=55\&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:1a1a1a,50:0D1117,100:1a1a1a\&height=250\&section=header\&text=Guilherme\&fontSize=80\&fontColor=fff\&animation=fadeIn\&fontAlignY=38\&desc=Full%20Stack%20Developer\&descAlignY=55\&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&duration=3000\&pause=1000\&color=FFFFFF\&center=true\&vCenter=true\&random=false\&width=435\&lines=Guilherme;Full+Stack+Developer;Based+in+Brazil)](https://git.io/typing-svg)
 
