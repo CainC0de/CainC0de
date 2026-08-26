@@ -1,171 +1,140 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=140&section=header&text=CainC0de&fontSize=42&fontColor=F0F6FC&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20Goias%2C%20Brasil&descAlignY=68&descSize=15&descColor=8B949E" />
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:1a1a1a,50:0D1117,100:1a1a1a\&height=250\&section=header\&text=CainC0de\&fontSize=80\&fontColor=fff\&animation=fadeIn\&fontAlignY=38\&desc=Full%20Stack%20Developer\&descAlignY=55\&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=400\&size=17\&duration=2500\&pause=900\&color=8B949E\&center=true\&vCenter=true\&width=550\&lines=Full+Stack+Development;Python+%C2%B7+TypeScript+%C2%B7+Rust;APIs+%C2%B7+Data+%C2%B7+Geoprocessing)](https://git.io/typing-svg)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=CainC0de&style=flat-square&color=30363d&label=profile+views&labelColor=161b22" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&duration=3000\&pause=1000\&color=FFFFFF\&center=true\&vCenter=true\&random=false\&width=435\&lines=Guilherme;Full+Stack+Developer;Based+in+Brazil)](https://git.io/typing-svg)
 
 </div>
 
-<br>
+## About Me
 
-## Sobre mim
+```go
+type Developer struct {
+    Name      string
+    Location  string
+    Focus     string
+    Languages []string
+    Status    string
+}
 
-```ts
-const guilherme = {
-  location: "Goiás, Brasil",
-  education: "Engenharia da Computação",
-  background: [
-    "Técnico em Informática",
-    "Desenvolvimento Backend"
-  ]
-};
+func NewDeveloper() *Developer {
+    return &Developer{
+        Name:      "Guilherme",
+        Location:  "Goiás | Brazil",
+        Focus:     "Full Stack Development",
+        Languages: []string{"TypeScript", "Python", "Rust"},
+        Status:    "Computer Engineering Student",
+    }
+}
 ```
 
-<br>
-
-# Tech Skills
-
 <div align="center">
 
-### Linguagens
+### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,rust,java,kotlin,php,cs,bash&theme=dark" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
 
-<br><br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
-### Frontend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square\&logo=sqlite\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square\&logo=influxdb\&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square\&logo=amazons3\&logoColor=white)
 
-<br><br>
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square\&logo=sqlalchemy\&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square\&logo=pydantic\&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square\&logo=celery\&logoColor=white)
+![HTTPX](https://img.shields.io/badge/HTTPX-222222?style=flat-square\&logo=python\&logoColor=white)
 
-### Backend & APIs
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square\&logo=scipy\&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square\&logo=sympy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square\&logo=python\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square\&logo=anaconda\&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django&theme=dark" />
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square\&logo=qgis\&logoColor=white)
+![GRASS GIS](https://img.shields.io/badge/GRASS%20GIS-88B04B?style=flat-square\&logo=qgis\&logoColor=white)
+![SAGA GIS](https://img.shields.io/badge/SAGA%20GIS-4A90D9?style=flat-square\&logo=qgis\&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=flat-square\&logo=autodesk\&logoColor=white)
+![Civil 3D](https://img.shields.io/badge/Civil%203D-0696D7?style=flat-square\&logo=autodesk\&logoColor=white)
 
-<br><br>
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square\&logo=python\&logoColor=white)
+![Shapely](https://img.shields.io/badge/Shapely-2D6A4F?style=flat-square\&logo=python\&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-3D6B4F?style=flat-square\&logo=python\&logoColor=white)
+![Fiona](https://img.shields.io/badge/Fiona-5A8F7B?style=flat-square\&logo=python\&logoColor=white)
+![PyProj](https://img.shields.io/badge/PyProj-306998?style=flat-square\&logo=python\&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square\&logo=leaflet\&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5C8C2F?style=flat-square\&logo=qgis\&logoColor=white)
 
-### Bancos de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" />
-
-<br><br>
-
-![PostGIS](https://img.shields.io/badge/PostGIS-181717?style=flat-square\&logo=postgresql\&logoColor=336791)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-181717?style=flat-square\&logo=influxdb\&logoColor=22ADF6)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-181717?style=flat-square\&logo=amazons3\&logoColor=569A31)
-
-<br><br>
-
-### Python · Dados & Ciência
-
-![Pandas](https://img.shields.io/badge/Pandas-181717?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-181717?style=flat-square\&logo=numpy\&logoColor=4DABCF)
-![SciPy](https://img.shields.io/badge/SciPy-181717?style=flat-square\&logo=scipy\&logoColor=8CAAE6)
-![SymPy](https://img.shields.io/badge/SymPy-181717?style=flat-square\&logo=sympy\&logoColor=3B5526)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-181717?style=flat-square\&logo=python\&logoColor=65BAEA)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-181717?style=flat-square\&logo=scikitlearn\&logoColor=F7931E)
-![Anaconda](https://img.shields.io/badge/Anaconda-181717?style=flat-square\&logo=anaconda\&logoColor=44A833)
-
-<br><br>
-
-### Python · Web & APIs
-
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-181717?style=flat-square\&logo=sqlalchemy\&logoColor=D71F00)
-![Pydantic](https://img.shields.io/badge/Pydantic-181717?style=flat-square\&logo=pydantic\&logoColor=E92063)
-![Celery](https://img.shields.io/badge/Celery-181717?style=flat-square\&logo=celery\&logoColor=37814A)
-![HTTPX](https://img.shields.io/badge/HTTPX-181717?style=flat-square\&logo=python\&logoColor=white)
-
-<br><br>
-
-### Geoprocessamento & GIS
-
-![QGIS](https://img.shields.io/badge/QGIS-181717?style=flat-square\&logo=qgis\&logoColor=589632)
-![GRASS GIS](https://img.shields.io/badge/GRASS_GIS-181717?style=flat-square\&logo=qgis\&logoColor=88B04B)
-![SAGA GIS](https://img.shields.io/badge/SAGA_GIS-181717?style=flat-square\&logo=qgis\&logoColor=4A90D9)
-![PostGIS](https://img.shields.io/badge/PostGIS-181717?style=flat-square\&logo=postgresql\&logoColor=336791)
-
-<br><br>
-
-### Python · Geoespacial
-
-![GeoPandas](https://img.shields.io/badge/GeoPandas-181717?style=flat-square\&logo=geopandas\&logoColor=139C5A)
-![Shapely](https://img.shields.io/badge/Shapely-181717?style=flat-square\&logo=python\&logoColor=2D6A4F)
-![Rasterio](https://img.shields.io/badge/Rasterio-181717?style=flat-square\&logo=python\&logoColor=3D6B4F)
-![Fiona](https://img.shields.io/badge/Fiona-181717?style=flat-square\&logo=python\&logoColor=5A8F7B)
-![PyProj](https://img.shields.io/badge/PyProj-181717?style=flat-square\&logo=python\&logoColor=3776AB)
-![Folium](https://img.shields.io/badge/Folium-181717?style=flat-square\&logo=leaflet\&logoColor=199900)
-![GDAL](https://img.shields.io/badge/GDAL-181717?style=flat-square\&logo=qgis\&logoColor=5C8C2F)
-
-<br><br>
-
-### CAD
-
-![AutoCAD](https://img.shields.io/badge/AutoCAD-181717?style=flat-square\&logo=autodesk\&logoColor=E51937)
-![Civil 3D](https://img.shields.io/badge/Civil_3D-181717?style=flat-square\&logo=autodesk\&logoColor=0696D7)
-
-<br><br>
-
-### DevOps & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode&theme=dark" />
-
-<br><br>
-
-![GitKraken](https://img.shields.io/badge/GitKraken-181717?style=flat-square\&logo=gitkraken\&logoColor=179287)
-![Postman](https://img.shields.io/badge/Postman-181717?style=flat-square\&logo=postman\&logoColor=FF6C37)
-![pytest](https://img.shields.io/badge/pytest-181717?style=flat-square\&logo=pytest\&logoColor=0A9EDC)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat-square\&logo=gitkraken\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square\&logo=pytest\&logoColor=white)
 
 </div>
-
-<br>
 
 ---
 
-## Contribuições
+## Profile Views
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/CainC0de/CainC0de/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/CainC0de/CainC0de/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/CainC0de/CainC0de/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-  />
-</picture>
+<img src="https://komarev.com/ghpvc/?username=CainC0de&style=flat-square&color=0D1117&label=Profile+Views" alt="Profile Views" />
 
 </div>
-
-<br>
 
 ---
 
-## Contato
+## Connect with Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-CainC0de-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CainC0de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU-EMAIL@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CainC0de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU-EMAIL@email.com)
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=40&section=footer" />
+### Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/CainC0de/CainC0de/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:1a1a1a,50:0D1117,100:1a1a1a\&height=120\&section=footer)
 
 </div>
