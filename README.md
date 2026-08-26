@@ -20,7 +20,7 @@ type Developer struct {
 func NewDeveloper() *Developer {
     return &Developer{
         Name:      "Guilherme",
-        Location:  "Goiás | Brazil",
+        Location:  "Goiânia | Goiás | Brazil",
         Focus:     "Full Stack Development",
         Languages: []string{"TypeScript", "Python", "Rust"},
         Status:    "Computer Engineering Student",
@@ -117,7 +117,7 @@ func NewDeveloper() *Developer {
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CainC0de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU-EMAIL@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:EMAIL@email.com)
 
 </div>
 
