@@ -22,7 +22,7 @@ func NewDeveloper() *Developer {
         Name:      "Guilherme",
         Location:  "Goiânia | Goiás | Brazil",
         Focus:     "Full Stack Development",
-        Languages: []string{"TypeScript", "Python", "Rust"},
+        Languages: []string{"JavaScript", "Python", "Rust"},
         Status:    "Computer Engineering Student",
     }
 }
