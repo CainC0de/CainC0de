@@ -14,7 +14,7 @@ func NewDeveloper() *Developer {
         Name:      "Guilherme",
         Location:  "Goiânia | Goiás | Brazil",
         Focus:     "Full Stack Development, Geoprocessing, Data analysis and processing",
-        Languages: []string{"JavaScript", "C++", "Python", "Rust"},
+        Languages: []string{"JavaScript", "TypeScript", "Kotlin", "Python", "Rust"},
         Status:    "Computer Engineering Student",
     }
 }
