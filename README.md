@@ -13,7 +13,7 @@ func NewDeveloper() *Developer {
     return &Developer{
         Name:      "Guilherme",
         Location:  "Goiânia | Goiás | Brazil",
-        Focus:     "Full Stack Development, Geoprocessing, Data analysis and processing ",
+        Focus:     "Full Stack Development, Geoprocessing, Data analysis and processing",
         Languages: []string{"JavaScript", "C++", "Python", "Rust"},
         Status:    "Computer Engineering Student",
     }
